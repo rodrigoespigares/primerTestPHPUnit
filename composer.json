@@ -1,0 +1,20 @@
+{
+    "name": "rodrigo/primer-test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Rodrigo\\PrimerTest\\": "./",
+            "Models\\": "./Models",
+            "Test\\Unit\\": "./Test/Unit"
+        }
+    },
+    "authors": [
+        {
+            "name": "rodrigoespigares",
+            "email": "rodrigoespigaresfernandez@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
