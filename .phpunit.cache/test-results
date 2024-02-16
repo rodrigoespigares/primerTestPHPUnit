@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Test\\Unit\\PerroTest2::test_sonido#sonido2":7,"Test\\Unit\\PerroTest2::sonido#sonido2":7},"times":{"Test\\Unit\\PerroTest2::test_sonido#sonido1":0.001,"Test\\Unit\\PerroTest2::test_sonido#sonido2":0.005,"Test\\Unit\\PerroTest2::sonido#sonido1":0.002,"Test\\Unit\\PerroTest2::sonido#sonido2":0.009}}

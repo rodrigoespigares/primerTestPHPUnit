@@ -1,6 +1,6 @@
 <?php
 
-namespace Models;
+namespace src\Models;
 class Perro extends Animal{
     public function __construct()
     {

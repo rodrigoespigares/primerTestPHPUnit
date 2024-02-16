@@ -3,9 +3,7 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Rodrigo\\PrimerTest\\": "./",
-            "Models\\": "./Models",
-            "Test\\Unit\\": "./Test/Unit"
+            "Rodrigo\\PrimerTest\\": "/src"
         }
     },
     "authors": [
