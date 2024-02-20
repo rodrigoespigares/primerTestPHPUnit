@@ -11,4 +11,8 @@ cacheDirectory=".phpunit.cache">
             <directory suffix=".php">src</directory>
         </include>
     </source>
+    <logging>
+        <testdoxHtml outputFile="report/testdox.html"/>
+        <testdoxText outputFile="report/testdox.txt"/>
+    </logging>
 </phpunit>
